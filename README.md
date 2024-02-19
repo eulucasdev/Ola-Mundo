@@ -1,6 +1,6 @@
-# Olá, Mundo! ¨Em Python"
- Repositório de exercícios feitos
+# Olá, Mundo! 
+ Primeiro repositório em git e github
 
-Repositório de esxercícios concluidos para acompanhar minha evolução!
+Repositório para aprender a usar git e github 
 
-Testando terminal do github
+Testando edição prelo site.
